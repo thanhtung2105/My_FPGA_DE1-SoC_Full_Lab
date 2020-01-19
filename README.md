@@ -4,7 +4,7 @@
 
 This repository has included all of my practice and exercise in Verilog HDL programming language.
 
-I work with Altera DE1-SoC board and write on Quartus II 13.0sp1 (64-bit) Web Edition.
+I work with Altera DE1-SoC board and write on Quartus II 13.0sp1 Web Edition.
 
 ### KIT and program I working with:
 
